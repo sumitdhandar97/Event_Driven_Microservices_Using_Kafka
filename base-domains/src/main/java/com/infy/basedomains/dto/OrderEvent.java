@@ -1,5 +1,5 @@
 package com.infy.basedomains.dto;
-
+//to keep all the domain entities in a different microservice we have created this base domain service
 //class used to transfer the data between consumer and producer using apache kafka
 import lombok.AllArgsConstructor;
 import lombok.Data;
